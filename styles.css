@@ -1,0 +1,74 @@
+h1.titulo{
+    text-align: center;
+    text-shadow: 4px 4px 4px blue;
+    font-family: "POPPINS";
+    
+}
+body{
+    background-color: cadetblue;
+}
+div.cajalink{
+    text-align: center;
+    border: solid 4px blue;
+    border-style: dotted;
+    background-color: lightblue;
+
+}
+a.link1{
+    background-color: cadetblue;
+    padding-right: 2%;
+    border: solid 3px blue;
+    color: white;
+    font-weight: bold;
+}
+div.texto{
+    margin: 10%;
+    background-color: lightblue;
+    border: solid 3px blue;
+    border-top-left-radius: 10px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: dou
+}
+a.link1:hover{
+    background-color: purple;
+    padding-right: 2%;
+    border: solid 2px blue;
+    color: white;
+    font-weight: bold;
+}
+div.final{
+    color: tomato;
+    background-color: lightblue;
+    text-align: center;
+}
+div.cajalista{
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 47%;
+    color: blue;
+    
+}
+iframe.mapa{
+    width: 400px;
+    height: 300px;
+}
+div.cajas{
+    display: flex;
+
+}
+div.formulario{
+    margin-top: 4%;
+    margin-left: 10%;
+    background-color: blue;
+    height: 300px;
+    color: white;
+}
+h3.titulo2{
+    text-decoration: underline blue;
+}
+a.linkprincipal{
+    color: white;
+    text-decoration: none;
+    
+}
